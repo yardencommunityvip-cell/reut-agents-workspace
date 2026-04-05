@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "boss-lady-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "O-output", "-p", "3333", "--no-clipboard"],
+      "port": 3333
+    }
+  ]
+}

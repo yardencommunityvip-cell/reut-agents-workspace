@@ -1,0 +1,482 @@
+[
+  {
+    "episode": 1,
+    "title": "The Man Who Shouldn't Exist",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Stop. Before you scroll — ask yourself one question. How does a man who was a guitar and math teacher at a private school in New York in 1974 — no college degree, no financial license — become one of the wealthiest people on earth in under a decade? That is not a rhetorical question. That is page one of 3.5 million documents the US government published in 2025. Jeffrey Epstein. Born 1953, Brooklyn. Fired from Bear Stearns in 1981 under circumstances that were never publicly explained. In 1982 he opens a private firm: J. Epstein and Co. One known client: Les Wexner, founder of Victoria's Secret. Wexner gave Epstein full power of attorney over his entire fortune. No public contract. No public explanation. So — who was Jeffrey Epstein? Next episode: the house in Florida that changed everything.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Black and white photo: young Epstein, 1970s school ID aesthetic",
+      "Document on screen: Bear Stearns letterhead, 1981",
+      "Property map animation: New York / Palm Beach / New Mexico / Paris / Virgin Islands",
+      "J. Epstein & Co. registration document, 1982 — zoom in on signature"
+    ],
+    "music_vibe": "Minimalist piano, slow burn — opening sequence of The Crown meets true crime",
+    "elevenlabs_voice": "Adam (deep, authoritative, slow pace)",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 2,
+    "title": "The Palm Beach House — Where It Started",
+    "duration_target": "60 seconds",
+    "voiceover_script": "2005. A mother in Florida files a police report. Her daughter is 14. She says a wealthy man paid her to be a 'masseuse.' Police begin investigating. What they find — nothing prepared them for it. Within a year, they identify 36 girls. All minors. All from the Palm Beach area. All with the same account. The recruitment system, according to the 2006 police report, was simple: a girl recruits a girl. Two hundred dollars for a massage. One thousand if she brings a friend. That is page 4 of the Palm Beach police report. A public document. Police Chief Michael Reiter wrote directly to the state attorney: 'This is not an individual offender. This is a coordinated operation.' In 2006, Epstein was arrested. The charge? Solicitation of prostitution. Not sex trafficking. Not sexual assault of a minor. Why? That answer — is the next episode.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Exterior photo of Epstein Palm Beach mansion — public image",
+      "Palm Beach Police Report 2006, page 4 — key sentence highlighted",
+      "Infographic: recruitment chain structure — girl recruits girl",
+      "Chief Reiter letter to state attorney — animated highlight"
+    ],
+    "music_vibe": "Rising tension, slow drums, investigative cold-case feel",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 3,
+    "title": "Ghislaine Maxwell: The Name Behind the Name",
+    "duration_target": "60 seconds",
+    "voiceover_script": "There is one name that appears more than any other in the 950 pages unsealed in January 2024. Not Clinton. Not Andrew. Ghislaine Maxwell. Daughter of British media mogul Robert Maxwell, who died under unexplained circumstances in 1991. According to the federal indictment of 2020: Maxwell recruited, groomed, and trafficked minors for Epstein from 1994 to 2004. A prosecution witness testified: at age 14, she met Maxwell and Epstein at a summer arts camp in Michigan. Flight logs show Epstein and Maxwell traveled there because Epstein was a campus donor. In 2021, Maxwell was convicted on five federal counts. In 2022: sentenced to 20 years. But one question went unanswered throughout the entire trial. Where are the other clients? On day four of the trial, prosecutors sought to introduce a list. The judge said no. Why? Next episode.",
+    "word_count": 152,
+    "visual_prompts": [
+      "Ghislaine Maxwell official arrest photo — public record",
+      "Federal indictment cover page, 2020 — large on screen",
+      "Timeline animation: 1994–2004 documented activity",
+      "Courtroom exterior, Brooklyn, January 2022 — sentencing day"
+    ],
+    "music_vibe": "Heavy, dark piano, London atmosphere, slow dread",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 4,
+    "title": "Little St. James: The Island",
+    "duration_target": "60 seconds",
+    "voiceover_script": "1998. Epstein purchases a private island in the US Virgin Islands. Area: approximately 75 acres. Name: Little St. James. Local residents had another name for it. The Miami Herald reported it in 2018 when journalist Julie Brown broke the story wide open. According to documented testimony in the Maxwell trial: girls were flown to the island — some without their parents' knowledge — listed in flight logs as adult guests. Photos from 2006, unsealed in January 2024, show women and young females on the island. Under the Epstein Files Transparency Act, the DOJ published in 2025: approximately 180,000 images and 2,000 videos. Some are still being processed. Some remain classified. Three structures on the island were never publicly explained — including a below-ground structure whose antenna array was documented in satellite imagery. What was inside? Next episode.",
+    "word_count": 150,
+    "visual_prompts": [
+      "Public satellite image: Little St. James Island",
+      "Property purchase document, 1998",
+      "Miami Herald front page, November 2018: 'Perversion of Justice'",
+      "2006 island photos — first page of January 2024 batch, public release"
+    ],
+    "music_vibe": "Ocean waves underneath ambient mystery — slow, unsettling",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "satellite_reveal"
+  },
+  {
+    "episode": 5,
+    "title": "The Lolita Express: Flight Logs",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Boeing 727. Registration: N908JE. The press nickname: the Lolita Express. The flight logs were entered as evidence in the Giuffre versus Maxwell case. What do they show? In the years 2001 to 2003 alone: 26 flight legs including Bill Clinton, according to the logs. Prince Andrew — documented. Alan Dershowitz — documented. Les Wexner. Ehud Barak. Kevin Spacey. Al Gore — his name appears in sworn testimony. Important to state clearly: being on a flight manifest is not, by itself, evidence of a crime. But the question federal prosecutors asked in 2024 was different: why were none of these individuals ever formally questioned? Why did the FBI field office in New York close its file the day before the 2008 deal took effect? Those are not rhetorical questions. Those are questions from the public record. Next episode: the deal.",
+    "word_count": 153,
+    "visual_prompts": [
+      "Public photo of aircraft N908JE",
+      "Flight log page — original document with names",
+      "Animated route map: New York / Florida / Island / New Mexico",
+      "Question on screen: 'Why were they never questioned?' — white text, black background"
+    ],
+    "music_vibe": "Accelerating, rhythmic, courtroom testimony energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "flight_map"
+  },
+  {
+    "episode": 6,
+    "title": "36 Girls: The List Nobody Wanted to See",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Palm Beach Police Station. 2005. One detective starts with one parent's complaint. A week later — two complaints. A month later — he has a list. Names. Ages. Amounts paid. By the end of the initial investigation: 36 girls. All from the Palm Beach area. All between 14 and 17. All describing the same thing: a wealthy man requested a massage. Paid two hundred dollars. Asked for more. Police Chief Michael Reiter wrote it directly in the report: 'This is not a single deviant individual. This is an operation.' He sent the case to the state attorney. The state attorney shelved it. Reiter did not stop. He took it to the FBI. And in May 2006 the FBI opened a federal investigation. Code name: Operation Leap Year. Twenty-seven documented victims. A 205-page prosecution memo. Sixty potential federal charges. What happened to all of that? Next episode.",
+    "word_count": 154,
+    "visual_prompts": [
+      "Exterior: Palm Beach Police Station",
+      "Table: anonymized names, ages, dates, amounts — from public report",
+      "Reiter letter — animated zoom on 'coordinated operation'",
+      "FBI logo + title card: 'Operation Leap Year — opened May 2006'"
+    ],
+    "music_vibe": "Rising tension, sharp strings, sense of battle",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 7,
+    "title": "Virginia Giuffre: The Girl Who Refused to Stay Silent",
+    "duration_target": "60 seconds",
+    "voiceover_script": "1999. Virginia Roberts is 15 years old. Working as a locker room attendant at Mar-a-Lago in Florida. Ghislaine Maxwell approaches her. Offers her a job. 'Masseuse for a wealthy man.' According to her sworn affidavit, submitted as evidence in the Giuffre versus Maxwell case and unsealed in 2024: she was transferred to Epstein's residence. Groomed. Trafficked. Flown on the Lolita Express dozens of times. In 2001 — according to her sworn testimony — she was delivered to Prince Andrew in London. She was paid fifteen thousand dollars. She never received it. In 2015 she files suit against Maxwell. In 2017 — a sealed settlement. In 2024 — the court lifts confidentiality. Page one of the 950 unsealed pages reads: 'Giuffre alleges she was trafficked to powerful men.' Maxwell's name appears 500 times in the documents. Prince Andrew's name: 67 times. Next episode: what Maxwell said under oath.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Virginia Giuffre public photo",
+      "Case header: Giuffre v. Maxwell, SDNY 2015",
+      "Timeline animation: 1999 Mar-a-Lago → 2001 London → 2015 suit → 2024 unsealed",
+      "On screen: '67 mentions of Prince Andrew' — large text"
+    ],
+    "music_vibe": "Sad, heavy, solo piano",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 8,
+    "title": "Ghislaine Under Oath: 'I Don't Recall'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "April 22, 2016. New York City. Ghislaine Maxwell sits across from attorneys in a sworn deposition. The session is recorded. The recording was submitted to court. Portions were unsealed in 2021. More in 2024. What did she answer? 'I don't recall' — 188 times. Question: 'Did you know that underage girls were brought into Epstein's home?' — 'I don't recall.' Question: 'Did you witness Epstein performing sexual acts on minors?' — 'I don't recall.' Question: 'Did you recruit girls?' — 'I don't recall.' Giuffre's attorneys submitted a count to the court: 188 instances of 'I don't recall' in a single deposition. The judge in Brooklyn, December 2021: 'Mrs. Maxwell — the jury did not believe you.' Maxwell sat in silence. She was convicted on five federal counts. Sentenced to 20 years. Next episode: the 60 charges that vanished.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Deposition room: table, microphone, two chairs",
+      "Counter on screen: climbing to 188 — 'I don't recall'",
+      "Judge quote 2021 — large white text on black",
+      "Brooklyn courthouse exterior, December 29, 2021"
+    ],
+    "music_vibe": "Cold, minimalist, dramatic silences",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "counter_reveal"
+  },
+  {
+    "episode": 9,
+    "title": "205 Pages That Led Nowhere",
+    "duration_target": "60 seconds",
+    "voiceover_script": "May 2007. A federal prosecutor in Florida sends a memo to Alexander Acosta, US Attorney for the Southern District of Florida. The memo: 205 pages. What's inside? Twenty-seven documented victims. Sixty potential federal charges. Evidence of human trafficking. Evidence of federal crimes. An FBI agent testified in a sworn affidavit: girls identified from photographs seized at Epstein's properties. Age. School. First name. All of it documented. 205 pages. This memo was introduced as evidence in federal court in 2019. The DOJ published it in 2025 under the Transparency Act. Anyone can read it. So what did Acosta do with those 205 pages? He offered Epstein a deal. Plead guilty to two state charges. In return — the federal government agrees not to prosecute. Not him. Not his associates. Not — quote — 'any potential co-conspirators.' No names. No limits. Everyone walks. Next episode: what they told the victims.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Memo cover: 'Prosecution Memorandum, May 2007'",
+      "Chart: 60 potential counts vs. 2 guilty plea counts",
+      "Memo quote: '27 identified victims, ages 14–23' — highlighted",
+      "Photo of Acosta — later appointed Trump Labor Secretary, 2017"
+    ],
+    "music_vibe": "Quiet fury, deep bass, slow burn of injustice",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 10,
+    "title": "The Victims Were Never Told: A Crime Within a Crime",
+    "duration_target": "60 seconds",
+    "voiceover_script": "September 2007. Acosta signs the non-prosecution agreement with Epstein's lawyers. The agreement is sealed. It terminates all federal proceedings. It protects Epstein and all of his, quote, 'potential co-conspirators.' Now — the part that made federal judges decades later call it unprecedented. The victims were not notified. The US federal Crime Victims' Rights Act requires prosecutors to inform victims before signing any such agreement. Acosta did not do that. In 2019, a federal judge ruled: the agreement was executed in violation of the victims' rights. Virginia Giuffre said in testimony: 'I found out Epstein had been released when I saw it on the news.' In 2018 — journalist Julie Brown of the Miami Herald published 'Perversion of Justice.' The internet exploded. One year later. July 6, 2019. JFK Airport. Epstein lands. The FBI is waiting. This time — there will be no deal. Next episode: what happened inside that jail.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Non-Prosecution Agreement document, September 2007 — signatures highlighted",
+      "Crime Victims' Rights Act — relevant statute on screen",
+      "Miami Herald front page, November 2018: 'Perversion of Justice — Julie K. Brown'",
+      "Acosta resignation press conference, July 2019"
+    ],
+    "music_vibe": "Angry violin crescendo, building toward explosion",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "headline_flash"
+  },
+  {
+    "episode": 11,
+    "title": "The Deal: The Crime Committed in the Name of the Law",
+    "duration_target": "60 seconds",
+    "voiceover_script": "September 24, 2007. Alexander Acosta, US Attorney for the Southern District of Florida, signs a document. The agreement: Jeffrey Epstein pleads guilty to two state-level charges only. In exchange — the federal government commits to not prosecuting him. Not him. Not his associates. Not — and these three words matter — 'any potential co-conspirators.' A non-prosecution agreement shielding individuals who were never investigated, never charged, never named. For free. In secret. In 2019, when this agreement was brought before a federal court, the judge ruled: 'This agreement violated the rights of victims under federal law.' In 2019, Acosta testified before Congress. Asked: why did you make this deal? He answered: 'I only ever had one meeting on the subject. It was above my pay grade.' Above his pay grade. So who gave the order? Next episode.",
+    "word_count": 153,
+    "visual_prompts": [
+      "NPA document — September 24, 2007 — signatures enlarged",
+      "Bold text on screen: 'any potential co-conspirators'",
+      "Acosta testifying before Congress, 2019",
+      "Quote on black: 'It was above my pay grade.'"
+    ],
+    "music_vibe": "Cold and bureaucratic, low strings, institutional dread",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 12,
+    "title": "'He Belonged to Intelligence'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "2019. The Trump transition team is vetting Acosta for Labor Secretary. In a pre-appointment meeting, Acosta is asked about Epstein. According to journalist Vicky Ward, who reported this live on MSNBC Hardball on July 9, 2019: Acosta told transition officials — quote — 'I was told to leave it alone. That Jeffrey Epstein belonged to the intelligence community.' Vicky Ward. July 9, 2019. MSNBC. That is not a Reddit theory. That is a journalist's on-the-record account from a source in the room. Did Epstein work for an intelligence agency? That question was asked in court. Asked in Congress. Among the 3.5 million pages the DOJ published in 2025 — there is no document confirming it. There is no document denying it. Some documents in this area remain classified. As of 2026, a congressional committee continues to demand their release. Next episode: four names that received immunity.",
+    "word_count": 158,
+    "visual_prompts": [
+      "MSNBC Hardball logo + date: July 9, 2019",
+      "Vicky Ward quote in full — white text on black",
+      "Question on screen: 'Was Epstein an intelligence asset?'",
+      "DOJ seal + text: 'Some documents remain classified'"
+    ],
+    "music_vibe": "Espionage, cold ambient, slow revelation",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "classified_reveal"
+  },
+  {
+    "episode": 13,
+    "title": "Four Names, Free Immunity",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The 2007 non-prosecution agreement named four individuals who received explicit immunity. According to federal court documents: Sarah Kellen — Epstein's personal assistant, who scheduled his appointments with girls. Adriana Ross — a household employee whose exact role was never publicly explained. Lesley Groff — senior personal assistant. Nadia Marcinkova — whom Epstein himself once called a 'biological genius' and who, according to witness testimony, was recruited at age 15. All four: never investigated. Never charged. Free today. In 2019, a partially de-classified document revealed additional names listed as potential co-conspirators: Les Wexner. Jean-Luc Brunel. Ghislaine Maxwell. And others still redacted. The agreement may have protected them as well. Of this group, only Maxwell was ever prosecuted — in a separate case, in 2021. Everyone else: no charges. Next episode: what the jail actually looked like.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Four names listed on screen — one by one reveal",
+      "NPA document — immunity clause highlighted",
+      "Table: Name / Role / Legal Status 2025",
+      "Partially redacted 2019 document — names visible and blacked out"
+    ],
+    "music_vibe": "Angry, rhythmic, accumulating injustice",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "list_reveal"
+  },
+  {
+    "episode": 14,
+    "title": "13 Months in a Private Wing: The Jail That Wasn't a Jail",
+    "duration_target": "60 seconds",
+    "voiceover_script": "June 2008. Epstein enters custody. But not prison. A private wing of the Palm Beach County Jail — a wing that had been unused before his arrival. A wing he personally financed to renovate. According to CNN and PBS reporting: six days a week, twelve hours a day — he was released on work detail. To where? To the offices of the Florida Science Foundation — a research grant organization he created specifically for this purpose. Who paid for the deputies assigned to escort him? Epstein himself. One hundred and twenty-eight thousand, one hundred and thirty-six dollars — paid to the Palm Beach County Sheriff's Office. Sex offenders are not eligible for Florida's work release program. Epstein qualified because he was not yet a registered sex offender when the deal was signed. In 2019, the county sheriff opened an internal investigation. Finding: 'serious irregularities.' Nobody was charged. Next episode: what happened after he walked out.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Exterior: Palm Beach County Jail — public photo",
+      "Daily schedule graphic: 6AM departs / 6PM returns",
+      "Check graphic: $128,136 — paid by Epstein to Sheriff's Office",
+      "CNN 2019 headline: 'Palm Beach Sheriff investigates Epstein work release'"
+    ],
+    "music_vibe": "Dark irony, almost absurdist — black comedy tempo",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 15,
+    "title": "2009–2019: A Decade of Freedom",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 2009. Epstein is released. He returns to his New York mansion. Returns to the Virgin Islands. Continues flying. Continues hosting. The Lolita Express flight logs continue after 2009. Testimony from the Maxwell trial described ongoing activity well into the 2010s. In 2011 — according to Virginia Giuffre's sworn testimony — she was trafficked to Prince Andrew in London. After Epstein was already a registered sex offender. In 2015 — Giuffre files her lawsuit. In 2017 — sealed settlement. In 2018 — journalist Julie Brown at the Miami Herald publishes Perversion of Justice. The internet catches fire. One year later. July 6, 2019. JFK Airport. Epstein's plane lands. FBI agents are on the tarmac. He is arrested. The charges: two federal counts. Sex trafficking of minors. Conspiracy to traffic minors. This time — no deal is coming. Next episode: the last 37 days.",
+    "word_count": 157,
+    "visual_prompts": [
+      "Visual timeline: 2009–2019, key moments highlighted",
+      "Miami Herald front page, November 2018",
+      "Airport tarmac — July 6, 2019 aesthetic",
+      "NYT headline: 'Epstein Arrested on Sex Trafficking Charges' — July 8, 2019"
+    ],
+    "music_vibe": "Fast, urgent, clock ticking",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 16,
+    "title": "Prince Andrew: 67 Times in the File",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Prince Andrew's name appears 67 times in the Giuffre versus Maxwell documents unsealed in January 2024. Not 67 passing mentions. 67 mentions in the context of sworn testimony. According to Giuffre's affidavit: in 2001, when she was 17, she was transported to London. Was paid fifteen thousand dollars. Had sexual contact with Prince Andrew. Three times. In three separate locations. In 2022, Giuffre filed a civil lawsuit against the Prince. Andrew — son of Queen Elizabeth — stepped back from all royal duties in January 2022. He paid a settlement estimated at between three and twelve million pounds. The exact figure was never disclosed. No admission of liability. No denial under oath. In February 2026, an email was unsealed confirming that the photograph of Andrew and Giuffre from 2001 is authentic. Andrew's current position: 'I do not intend to cooperate with any further investigation.' Next episode: the lawyer who was there.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Andrew and Giuffre photograph — widely published, public record",
+      "Large number '67' — with subtitle: 'mentions in sworn testimony'",
+      "Timeline: 2001 London → 2022 steps back → settlement → 2026 photo confirmed",
+      "CNN headline, February 2026: 'Email confirms Giuffre photo of Andrew is real'"
+    ],
+    "music_vibe": "Regal but crumbling — dramatic cello",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 17,
+    "title": "Alan Dershowitz: 'I Want Everything Out'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Alan Dershowitz. Harvard Law professor. Epstein's personal attorney in the 2008 deal. His name appears in the January 2024 documents. What does it say? According to Giuffre's sworn deposition unsealed in January 2024: she described at least six sexual encounters with Dershowitz while she was being trafficked — as a minor. On a plane. At Epstein's New York home. At Epstein's Florida home. Two Epstein household employees testified under oath: Dershowitz visited the property often. Requested massages. Arrived without his family when young girls were present. Dershowitz has denied everything categorically. In 2022 — a settlement with no admission and no money changed hands. Giuffre issued a statement saying she 'may have made a mistake' in identifying him. In 2024, Dershowitz told media: 'I want every document out. I have evidence that will show who framed me.' The case is settled. The questions remain. Next episode: the flight logs decoded.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Alan Dershowitz public photo",
+      "2016 deposition excerpt — Giuffre description highlighted",
+      "Household employee testimony quotes on screen",
+      "NewsNation 2024 headline: 'I want everything out — Dershowitz'"
+    ],
+    "music_vibe": "Courtroom tension, legal procedural energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 18,
+    "title": "The Flight Logs: Names That Were Never Explained",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The flight logs of N908JE were entered into evidence. They are public record. They show dozens of passengers. But pay attention to one detail most people miss: the passenger names are not always complete. Sometimes: initials only. Sometimes: 'Jane' or 'female.' Sometimes: first name only. When the FBI built its 2019 case, agents tried to cross-reference flight logs with victim testimony. According to DOJ documents published in 2025: eight documented Trump flights between 1993 and 1996 — including four on which Ghislaine Maxwell was also a passenger. Twenty-six Clinton flight legs between 2002 and 2003. Ehud Barak — documented. Kevin Spacey — documented, including a flight to Africa with Clinton and Chris Tucker. Dozens of additional names that the DOJ has still not fully released. Two hundred thousand pages remain redacted. Being on a flight manifest is not evidence of a crime. But being on a manifest and never being asked about it — that is a different question. Next episode: Bill Clinton.",
+    "word_count": 165,
+    "visual_prompts": [
+      "Flight log page — original document with passenger names",
+      "Table: Name / Number of Flights / Years",
+      "Animated route map: all flight destinations",
+      "Text on screen: '200,000 pages still redacted — DOJ 2025'"
+    ],
+    "music_vibe": "Quiet discovery, old document aesthetic",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "flight_map"
+  },
+  {
+    "episode": 19,
+    "title": "Bill Clinton: 26 Flights and One Question",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Bill Clinton. Former President of the United States. Twenty-six flight legs on the Lolita Express between February 2002 and November 2003. Six international trips. Africa. Asia. Europe. Clinton's team stated: all trips served Clinton Foundation purposes. Secret Service was present. No evidence of any crime. That is accurate — there is no evidence linking Clinton to Epstein's crimes. But in 2025, the DOJ published an email found in Epstein's personal archive. An email Epstein wrote to an associate. In it, he describes his 'affection' for Clinton. Describes requests Clinton made. Adds — and this is a direct quote from the document — 'he will help us if we get into trouble.' That is what the email says. Clinton has not responded to that specific document. One question remains without an answer in the public record: why did a former president with access to government aircraft choose to fly on Epstein's plane 26 times? Next episode: Zorro Ranch.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Clinton and Epstein public photograph — widely circulated",
+      "Flight log: 26 legs highlighted",
+      "Email interface: 'he will help us if we get into trouble' — from DOJ 2025 release",
+      "Question on screen: 'Why not the government plane?'"
+    ],
+    "music_vibe": "Political weight, investigative journalism tempo",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 20,
+    "title": "Zorro Ranch: The Compound in New Mexico",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Seven thousand five hundred acres in New Mexico. Name: Zorro Ranch. Epstein purchased it in the 1990s. In 2026 — the New Mexico Department of Justice conducted the first-ever criminal search of the property. The first. Ever. According to an NBC News review of court testimony, lawsuits, and public records: at least ten women and girls reported abuse at the ranch. Half were under 18 when Epstein harmed them. Chauntae Davis told CBS News: 'I was raped at Zorro Ranch at least twice.' Annie Farmer testified at the Maxwell trial: she was abused by both Maxwell and Epstein at the ranch. Virginia Giuffre: 'I was trafficked to the ranch and ordered to have sex with Epstein and other men.' In 2020, the FBI received a tip suggesting bodies may be buried on the property. They sat on it for six years. In 2026 — New Mexico prosecutors forced a search. What they found has not yet been publicly disclosed. Next episode: July 6, 2019.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Aerial photo: Zorro Ranch — public image",
+      "Map: New Mexico, ranch location",
+      "Three victim quotes on screen — identified by first name only",
+      "WSWS headline: 'FBI sat on buried bodies tip for six years'"
+    ],
+    "music_vibe": "Desert silence, heavy and spiritual",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "satellite_reveal"
+  },
+  {
+    "episode": 21,
+    "title": "July 6, 2019: The Last Landing",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 6, 2019. Approximately 4 PM. A private jet touches down at Teterboro Airport, New Jersey. Jeffrey Epstein steps off the plane. FBI agents are waiting on the ground. This is happening years after the Miami Herald blew the story wide open. Months after Acosta resigned. A decade after the 2008 deal set him free. Epstein is arrested. The new indictment: two federal counts. Sex trafficking of minors. Conspiracy to traffic minors. The Southern District of New York. Dozens of victims referenced. The DOJ states: 'Additional evidence was collected from his office and New York residence.' What was found? CDs. Photographs. Recordings. And a safe. Inside the safe — according to an FBI affidavit — quote: 'photographs of nude females who appear to be minors.' On July 23, 2019 — Epstein is found in his cell with injuries to his neck. First incident. He is placed on suicide watch. July 30, 2019 — suicide watch restrictions are removed. Next episode: 37 days.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Teterboro Airport exterior — public image",
+      "NYT headline: 'Jeffrey Epstein Arrested on Sex Trafficking Charges' — July 8, 2019",
+      "FBI affidavit excerpt: 'photographs of nude females who appear to be minors'",
+      "Timeline: July 6 arrest / July 23 first incident / July 30 watch removed"
+    ],
+    "music_vibe": "Urgent, fast, countdown energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 22,
+    "title": "Removal of Watch: 11 Critical Days",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 30, 2019. Metropolitan Correctional Center, New York. A prison doctor signs a form: Epstein's suicide watch — terminated. He is moved to a single cell. Under standard MCC protocol, any inmate previously on suicide watch must be assigned a cellmate. Epstein was not assigned one. He was placed under a 30-minute observation check. In practice — according to the DOJ Inspector General report released in 2023 — these checks were not performed. The overnight shift of August 9th to 10th: two guards. Both fell asleep. Between 10:30 PM and 6:30 AM — no checks. Eight hours. Half of the security cameras in MCC were not operational. The camera positioned directly outside Epstein's cell: described in the report as 'not functioning.' The Inspector General's conclusion: 'broad institutional failures.' Next episode: 6:30 in the morning.",
+    "word_count": 154,
+    "visual_prompts": [
+      "MCC New York exterior",
+      "Timeline: July 30 watch removed / Aug 9–10 overnight shift",
+      "Clock graphic: 8 hours without a check",
+      "DOJ OIG report quote: 'broad institutional failures'"
+    ],
+    "music_vibe": "Freezing tension, dangerous silence, solo piano",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "clock_reveal"
+  },
+  {
+    "episode": 23,
+    "title": "August 10, 2019: 6:30 AM",
+    "duration_target": "60 seconds",
+    "voiceover_script": "August 10, 2019. 5:42 AM. Guard Noel types into his workstation computer: 'latest on Epstein in jail.' He is searching the internet. Ten minutes later — searches again. 6:30 AM. Breakfast distribution begins. A guard opens the door to Epstein's cell. Finds him unresponsive. Blue. Jeffrey Epstein is pronounced dead at 7:36 AM at a nearby hospital. Official cause of death: asphyxiation by hanging. Official manner: suicide. But on October 30, 2019 — Dr. Michael Baden, former Chief Medical Examiner of New York City, hired by Epstein's brother, releases his findings. The hyoid bone: fractured. Two fractures in the thyroid cartilage — both sides of the larynx. Baden's statement: 'In 50 years of investigating deaths I have not seen this pattern of fractures in a suicide by hanging.' His conclusion: 'Consistent with homicidal strangulation.' The official medical examiner: 'I stand by my finding of suicide.' Next episode: two doctors, one bone.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Clock: 5:42 / 5:52 / 6:30 — animated timeline",
+      "MCC corridor — cell block aesthetic",
+      "Medical graphic: hyoid bone location and fracture points",
+      "Side by side: 'Suicide' — official / 'Homicidal Strangulation' — Baden"
+    ],
+    "music_vibe": "Complete stop. Dramatic. A single low note held.",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "medical_reveal"
+  },
+  {
+    "episode": 24,
+    "title": "Two Theories, One Bone",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The medical dispute has never been resolved. On one side: Dr. Barbara Sampson, Chief Medical Examiner of New York City. Conclusion: suicide by hanging. On the other side: Dr. Michael Baden, 50 years of forensic experience. Conclusion: 'Pattern consistent with homicidal strangulation from behind.' The specific injuries: fractures to both sides of the thyroid cartilage simultaneously. A fracture of the left hyoid bone. Baden's position: 'To fracture both sides of the larynx simultaneously in a suicide by hanging — that is nearly impossible.' Sampson's position: 'Such fractures can occur in either manner of death.' What is confirmed by the documented record: no cellmate assigned. The camera failed. The guards slept. Suicide watch lifted 11 days before his death. In 2026, calls for an independent autopsy review continue. The DOJ has stated: no further prosecutions. A congressional committee has stated: we are still investigating. The answer has not arrived. Next episode: the two guards who slept.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Split screen: 'Suicide' vs 'Homicide' — two columns",
+      "Animated medical graphic: three fracture locations",
+      "Baden quote from NYT 2019 — enlarged",
+      "Question on screen: 'The official answer is still disputed'"
+    ],
+    "music_vibe": "Unresolved, melancholic, open-ended",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "split_reveal"
+  },
+  {
+    "episode": 25,
+    "title": "The Two Guards: Falsified Federal Records",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Tova Noel. Michael Thomas. The two overnight guards at MCC on August 9th to 10th, 2019. What did they do? They slept. For approximately three hours. And then — they falsified the check logs. They recorded inmate checks that never happened. According to ABC News reporting: both guards were subsequently charged with falsifying federal records and making false statements. In 2021 — both received a deal: charges dropped in exchange for community service. Neither spent a single day incarcerated. Congressional investigators asked directly: how do two individuals who falsified evidence in the highest-profile federal case in decades receive community service? The DOJ did not provide a satisfactory explanation. In 2026 — the House Oversight Committee published a statement: 'We remain unsatisfied with the response to the oversight failures surrounding Epstein's death.' The case file on his death remains open. Next episode: the Maxwell trial.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Guard booking photos — public record",
+      "Federal indictment document against both guards",
+      "Timeline: Charged → Deal → Community service",
+      "House Oversight Committee statement 2026 — key line highlighted"
+    ],
+    "music_vibe": "Cynical, rhythmic, accelerating frustration",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 26,
+    "title": "Ghislaine Maxwell: One Against the System",
+    "duration_target": "60 seconds",
+    "voiceover_script": "November 29, 2021. Federal court, Brooklyn. The trial of Ghislaine Maxwell begins. Six weeks. Four primary witnesses. Every one of them described the same method: Maxwell identified young girls. Built their trust. Invited them for a massage. Normalized Epstein's sexual contact. According to the prosecution: 'She was the person most frequently present in the room when Epstein abused his victims.' December 29, 2021 — verdict: guilty. Five federal counts. Sex trafficking of minors. Conspiracy to traffic minors. June 28, 2022 — sentencing: 20 years in federal prison. Maxwell's statement: 'I am sorry for the pain experienced by the victims.' No denial. No admission. But the question a trial observer posed at the end of day four of testimony: where are the men these girls were trafficked to? Why is Maxwell in the dock and no one else? Next episode: January 2024 — the papers.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Brooklyn federal courthouse exterior",
+      "Headline: 'Maxwell Guilty' — December 29, 2021",
+      "Judge quote: 'The jury did not believe you'",
+      "Question: 'Where are the men?' — The Guardian headline, 2021"
+    ],
+    "music_vibe": "End of an act, heavy, slow piano descent",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "verdict_reveal"
+  },
+  {
+    "episode": 27,
+    "title": "January 2024: 950 Pages That Broke the Internet",
+    "duration_target": "60 seconds",
+    "voiceover_script": "January 3, 2024. Judge Loretta Preska, Southern District of New York. 950 pages. Unsealed and released to the public. This is the first wave of what becomes eight waves through January 2024. Total: 4,553 pages from the Giuffre versus Maxwell case file. Contents: sworn depositions. Attorney submissions. A list of names Epstein directed Giuffre toward. Names Giuffre described in sworn testimony. The internet's reaction: global trending within hours. According to Google Trends analysis: 'Epstein documents 2024' — all-time search peak. What triggered it? Names. One hundred and fifty names. Some of them very familiar. Some unknown. Most did not respond to press inquiries. Being named in a court document is not evidence of a crime. But the volume — and the silence — generated a question that cut through every newsroom on earth: if these documents existed since 2015 — why did it take nine years to release them? Next episode: the Transparency Act.",
+    "word_count": 160,
+    "visual_prompts": [
+      "SDNY court document header — January 3, 2024 timestamp",
+      "Google Trends graph: January 2024 — all-time spike",
+      "Number: '150 names' — on screen",
+      "News ticker: CNN / BBC / NYT / Guardian all simultaneously"
+    ],
+    "music_vibe": "Breaking news energy — adrenaline, fast cut",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "headline_flash"
+  },
+  {
+    "episode": 28,
+    "title": "The Transparency Act: 3.5 Million Pages",
+    "duration_target": "60 seconds",
+    "voiceover_script": "November 19, 2025. President Trump signs the Epstein Files Transparency Act into law. The Act requires: all unclassified records released within 30 days. The DOJ identifies: six million pages. Releases: 3.5 million. What is included: 180,000 images. Two thousand videos. Tens of thousands of emails. And what is missing? Two and a half million pages still unreleased. Two hundred thousand pages redacted without publicly stated justification. Representative Laura Friedman: 'I found hundreds of pages marked unredacted that are still blacked out.' The DOJ response: 'We have met our legal obligations.' The Washington Post, February 2026 headline: 'The release left the biggest questions unanswered.' Meanwhile — the Deputy Attorney General stated on February 2, 2026: there will be no further prosecutions related to Epstein. No. Further. Prosecutions. Next episode: what is still being hidden.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Trump signing ceremony — November 2025",
+      "Progress bar: 3.5M released vs 2.5M unreleased",
+      "Redacted document photo — heavy black bars",
+      "WaPo headline: 'Unanswered questions' — February 2026"
+    ],
+    "music_vibe": "Bureaucratic wall, frustration, deep bass",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 29,
+    "title": "What They Are Still Hiding",
+    "duration_target": "60 seconds",
+    "voiceover_script": "February 2026. The DOJ announces: over one million additional documents have been identified and not yet released. NPR reports: the same PowerPoint presentation appears six times in the database — with different information redacted in each version. Same document. Six versions. Different blackouts. Congressional investigators: 'There may be terabytes of data from Epstein's seized devices that have never been analyzed.' The DOJ: 'No further prosecutions.' On February 24, 2026 — NPR reports: the DOJ removed and withheld Epstein documents containing accusations against President Trump. The DOJ's statement: 'Those accusations are unfounded and false.' The House Oversight minority: 'This is a political cover-up.' The House Oversight Committee: 'We continue to investigate.' We are in April 2026. The investigation is not closed. The documents are not fully public. And the people who were protected by a secret agreement in 2007 — have still never been questioned. Next episode: everything we still don't know.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Counter: 1M+ documents still unreleased",
+      "Graphic: same PowerPoint, 6 different redaction versions",
+      "NPR headline: 'DOJ removed Epstein files related to Trump accusations' — Feb 2026",
+      "Question: 'What's in the other 2.5 million pages?'"
+    ],
+    "music_vibe": "Combative, fast, press conference energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "classified_reveal"
+  },
+  {
+    "episode": 30,
+    "title": "What We Still Don't Know: An Ending That Isn't One",
+    "duration_target": "60 seconds",
+    "voiceover_script": "April 2026. The series ends. The case does not. Here is what we know: Jeffrey Epstein built a systematic operation for the sexual exploitation of minors spanning at least a decade. Ghislaine Maxwell is serving 20 years. Two guards who falsified evidence received community service. The 2008 deal violated federal victims' rights law. Here is what we still do not know: the identities of all individuals in the 150 names who were never questioned. What is in the 2.5 million unreleased pages. Whether Epstein worked for an intelligence agency — and why Acosta said he was told to leave it alone. Whether anyone ordered the removal of his suicide watch — and why. What is on the hard drives and memory cards found in the safe at his New York mansion. The victims asked for one thing: names. They are still waiting. Three point five million pages. One answer still missing: who knew — and who protected him.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Split screen: 'What We Know' vs 'What We Don't Know'",
+      "Victim names — those who consented to public identification",
+      "Epstein property map — all known locations",
+      "Final frame: 'Who protected him?' — white text, slow fade to black"
+    ],
+    "music_vibe": "Sad, majestic, documentary closing — full orchestral swell then silence",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "final_fade"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 1,
+    "title": "The Man Who Shouldn't Exist",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Stop. Before you scroll — ask yourself one question. How does a man who was a guitar and math teacher at a private school in New York in 1974 — no college degree, no financial license — become one of the wealthiest people on earth in under a decade? That is not a rhetorical question. That is page one of 3.5 million documents the US government published in 2025. Jeffrey Epstein. Born 1953, Brooklyn. Fired from Bear Stearns in 1981 under circumstances that were never publicly explained. In 1982 he opens a private firm: J. Epstein and Co. One known client: Les Wexner, founder of Victoria's Secret. Wexner gave Epstein full power of attorney over his entire fortune. No public contract. No public explanation. So — who was Jeffrey Epstein? Next episode: the house in Florida that changed everything.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Black and white photo: young Epstein, 1970s school ID aesthetic",
+      "Document on screen: Bear Stearns letterhead, 1981",
+      "Property map animation: New York / Palm Beach / New Mexico / Paris / Virgin Islands",
+      "J. Epstein & Co. registration document, 1982 — zoom in on signature"
+    ],
+    "music_vibe": "Minimalist piano, slow burn — opening sequence of The Crown meets true crime",
+    "elevenlabs_voice": "Adam (deep, authoritative, slow pace)",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 2,
+    "title": "The Palm Beach House — Where It Started",
+    "duration_target": "60 seconds",
+    "voiceover_script": "2005. A mother in Florida files a police report. Her daughter is 14. She says a wealthy man paid her to be a 'masseuse.' Police begin investigating. What they find — nothing prepared them for it. Within a year, they identify 36 girls. All minors. All from the Palm Beach area. All with the same account. The recruitment system, according to the 2006 police report, was simple: a girl recruits a girl. Two hundred dollars for a massage. One thousand if she brings a friend. That is page 4 of the Palm Beach police report. A public document. Police Chief Michael Reiter wrote directly to the state attorney: 'This is not an individual offender. This is a coordinated operation.' In 2006, Epstein was arrested. The charge? Solicitation of prostitution. Not sex trafficking. Not sexual assault of a minor. Why? That answer — is the next episode.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Exterior photo of Epstein Palm Beach mansion — public image",
+      "Palm Beach Police Report 2006, page 4 — key sentence highlighted",
+      "Infographic: recruitment chain structure — girl recruits girl",
+      "Chief Reiter letter to state attorney — animated highlight"
+    ],
+    "music_vibe": "Rising tension, slow drums, investigative cold-case feel",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 3,
+    "title": "Ghislaine Maxwell: The Name Behind the Name",
+    "duration_target": "60 seconds",
+    "voiceover_script": "There is one name that appears more than any other in the 950 pages unsealed in January 2024. Not Clinton. Not Andrew. Ghislaine Maxwell. Daughter of British media mogul Robert Maxwell, who died under unexplained circumstances in 1991. According to the federal indictment of 2020: Maxwell recruited, groomed, and trafficked minors for Epstein from 1994 to 2004. A prosecution witness testified: at age 14, she met Maxwell and Epstein at a summer arts camp in Michigan. Flight logs show Epstein and Maxwell traveled there because Epstein was a campus donor. In 2021, Maxwell was convicted on five federal counts. In 2022: sentenced to 20 years. But one question went unanswered throughout the entire trial. Where are the other clients? On day four of the trial, prosecutors sought to introduce a list. The judge said no. Why? Next episode.",
+    "word_count": 152,
+    "visual_prompts": [
+      "Ghislaine Maxwell official arrest photo — public record",
+      "Federal indictment cover page, 2020 — large on screen",
+      "Timeline animation: 1994–2004 documented activity",
+      "Courtroom exterior, Brooklyn, January 2022 — sentencing day"
+    ],
+    "music_vibe": "Heavy, dark piano, London atmosphere, slow dread",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 4,
+    "title": "Little St. James: The Island",
+    "duration_target": "60 seconds",
+    "voiceover_script": "1998. Epstein purchases a private island in the US Virgin Islands. Area: approximately 75 acres. Name: Little St. James. Local residents had another name for it. The Miami Herald reported it in 2018 when journalist Julie Brown broke the story wide open. According to documented testimony in the Maxwell trial: girls were flown to the island — some without their parents' knowledge — listed in flight logs as adult guests. Photos from 2006, unsealed in January 2024, show women and young females on the island. Under the Epstein Files Transparency Act, the DOJ published in 2025: approximately 180,000 images and 2,000 videos. Some are still being processed. Some remain classified. Three structures on the island were never publicly explained — including a below-ground structure whose antenna array was documented in satellite imagery. What was inside? Next episode.",
+    "word_count": 150,
+    "visual_prompts": [
+      "Public satellite image: Little St. James Island",
+      "Property purchase document, 1998",
+      "Miami Herald front page, November 2018: 'Perversion of Justice'",
+      "2006 island photos — first page of January 2024 batch, public release"
+    ],
+    "music_vibe": "Ocean waves underneath ambient mystery — slow, unsettling",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "satellite_reveal"
+  },
+  {
+    "episode": 5,
+    "title": "The Lolita Express: Flight Logs",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Boeing 727. Registration: N908JE. The press nickname: the Lolita Express. The flight logs were entered as evidence in the Giuffre versus Maxwell case. What do they show? In the years 2001 to 2003 alone: 26 flight legs including Bill Clinton, according to the logs. Prince Andrew — documented. Alan Dershowitz — documented. Les Wexner. Ehud Barak. Kevin Spacey. Al Gore — his name appears in sworn testimony. Important to state clearly: being on a flight manifest is not, by itself, evidence of a crime. But the question federal prosecutors asked in 2024 was different: why were none of these individuals ever formally questioned? Why did the FBI field office in New York close its file the day before the 2008 deal took effect? Those are not rhetorical questions. Those are questions from the public record. Next episode: the deal.",
+    "word_count": 153,
+    "visual_prompts": [
+      "Public photo of aircraft N908JE",
+      "Flight log page — original document with names",
+      "Animated route map: New York / Florida / Island / New Mexico",
+      "Question on screen: 'Why were they never questioned?' — white text, black background"
+    ],
+    "music_vibe": "Accelerating, rhythmic, courtroom testimony energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "flight_map"
+  }
+]

@@ -1,0 +1,221 @@
+{
+  "project": "Epstein Files — 30-Part Micro-Drama Series",
+  "remotion_version": "4.x",
+  "composition_defaults": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "format": "portrait_9x16",
+    "target_platform": ["TikTok", "Instagram Reels", "YouTube Shorts"],
+    "duration_frames": 1800,
+    "duration_seconds": 60
+  },
+  "design_system": {
+    "color_palette": {
+      "background_primary": "#0A0A0A",
+      "background_secondary": "#111111",
+      "text_primary": "#FFFFFF",
+      "text_accent": "#C8A951",
+      "text_danger": "#B22222",
+      "document_background": "#F5F0E8",
+      "document_text": "#1A1A1A",
+      "redaction_bar": "#000000"
+    },
+    "typography": {
+      "headline_font": "Playfair Display",
+      "body_font": "Inter",
+      "document_font": "Courier Prime",
+      "headline_size": 52,
+      "body_size": 32,
+      "caption_size": 24
+    },
+    "episode_badge": {
+      "format": "EP. {N} / 30",
+      "position": "top-right",
+      "color": "#C8A951"
+    }
+  },
+  "templates": {
+    "document_reveal": {
+      "description": "Aged document fades in, key sentence highlights in gold, then zooms",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 15, "action": "episode_badge_fade_in"},
+        {"frame": 30, "action": "document_fade_in"},
+        {"frame": 90, "action": "key_text_highlight_gold"},
+        {"frame": 150, "action": "slow_zoom_to_highlight"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "timeline_reveal": {
+      "description": "Horizontal timeline builds left to right with events appearing",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 15, "action": "episode_badge_fade_in"},
+        {"frame": 30, "action": "timeline_line_draws"},
+        {"frame": 60, "action": "first_event_appears"},
+        {"frame": 90, "action": "second_event_appears"},
+        {"frame": 150, "action": "third_event_appears"},
+        {"frame": 1700, "action": "final_event_flash_red"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "flight_map": {
+      "description": "World map, animated flight path lines connecting locations",
+      "animation_sequence": [
+        {"frame": 0, "action": "dark_world_map_fade_in"},
+        {"frame": 30, "action": "origin_dot_appears"},
+        {"frame": 60, "action": "flight_path_draws_animated"},
+        {"frame": 120, "action": "destination_dots_appear_with_names"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "satellite_reveal": {
+      "description": "Google Earth-style zoom from high altitude down to location",
+      "animation_sequence": [
+        {"frame": 0, "action": "satellite_high_altitude"},
+        {"frame": 60, "action": "zoom_to_target"},
+        {"frame": 120, "action": "location_pin_appears"},
+        {"frame": 150, "action": "labels_fade_in"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "counter_reveal": {
+      "description": "Large number counts up dramatically on screen",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 30, "action": "counter_starts_at_zero"},
+        {"frame": 300, "action": "counter_reaches_final_number"},
+        {"frame": 310, "action": "number_flash_red"},
+        {"frame": 330, "action": "context_text_fades_in"},
+        {"frame": 1700, "action": "fade_to_black"}
+      ]
+    },
+    "classified_reveal": {
+      "description": "Redacted document, bars lift one by one to reveal text beneath",
+      "animation_sequence": [
+        {"frame": 0, "action": "fully_redacted_document"},
+        {"frame": 60, "action": "first_bar_lifts"},
+        {"frame": 120, "action": "second_bar_lifts"},
+        {"frame": 180, "action": "key_revelation_appears"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "split_reveal": {
+      "description": "Screen splits vertically — two competing narratives side by side",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 30, "action": "left_panel_slides_in"},
+        {"frame": 60, "action": "right_panel_slides_in"},
+        {"frame": 120, "action": "both_panels_populate_text"},
+        {"frame": 1700, "action": "fade_to_black"}
+      ]
+    },
+    "medical_reveal": {
+      "description": "Clinical white background, anatomical illustration, fracture points highlight",
+      "animation_sequence": [
+        {"frame": 0, "action": "white_clinical_background"},
+        {"frame": 30, "action": "anatomy_illustration_fades_in"},
+        {"frame": 90, "action": "fracture_point_1_highlights_red"},
+        {"frame": 120, "action": "fracture_point_2_highlights_red"},
+        {"frame": 150, "action": "fracture_point_3_highlights_red"},
+        {"frame": 180, "action": "expert_name_and_conclusion_appears"},
+        {"frame": 1700, "action": "fade_to_black"}
+      ]
+    },
+    "clock_reveal": {
+      "description": "Clock face, hands moving forward with events overlaid at each timestamp",
+      "animation_sequence": [
+        {"frame": 0, "action": "dark_clock_face"},
+        {"frame": 30, "action": "clock_hands_move_to_10:30pm"},
+        {"frame": 90, "action": "event_label_appears"},
+        {"frame": 180, "action": "clock_jumps_to_6:30am"},
+        {"frame": 210, "action": "discovery_label_appears_red"},
+        {"frame": 1700, "action": "fade_to_black"}
+      ]
+    },
+    "verdict_reveal": {
+      "description": "Gavel slam, verdict text slams onto screen",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 30, "action": "courtroom_ambient_background"},
+        {"frame": 90, "action": "gavel_visual_slam"},
+        {"frame": 100, "action": "verdict_text_slams_on_screen"},
+        {"frame": 150, "action": "sentence_text_appears"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "headline_flash": {
+      "description": "Rapid newspaper headline flashes — multiple outlets simultaneously",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 15, "action": "first_headline_flashes"},
+        {"frame": 30, "action": "second_headline_flashes"},
+        {"frame": 45, "action": "third_headline_flashes"},
+        {"frame": 60, "action": "all_headlines_hold"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "list_reveal": {
+      "description": "Names appear one by one from top, each with a label",
+      "animation_sequence": [
+        {"frame": 0, "action": "black_screen"},
+        {"frame": 30, "action": "name_1_slides_in_left"},
+        {"frame": 60, "action": "name_2_slides_in_left"},
+        {"frame": 90, "action": "name_3_slides_in_left"},
+        {"frame": 120, "action": "name_4_slides_in_left"},
+        {"frame": 150, "action": "immunity_label_appears_gold"},
+        {"frame": 1700, "action": "fade_to_black"},
+        {"frame": 1750, "action": "cliffhanger_text_appear"}
+      ]
+    },
+    "final_fade": {
+      "description": "Slow fade from known facts to black — final episode closer",
+      "animation_sequence": [
+        {"frame": 0, "action": "two_column_split_what_we_know"},
+        {"frame": 300, "action": "right_column_fades"},
+        {"frame": 600, "action": "left_column_fades"},
+        {"frame": 900, "action": "final_question_appears_white"},
+        {"frame": 1500, "action": "slow_fade_to_black"},
+        {"frame": 1750, "action": "series_end_title"}
+      ]
+    }
+  },
+  "audio_sync": {
+    "voiceover_track": "ep_{N}_voiceover.mp3",
+    "voiceover_start_frame": 0,
+    "background_music_track": "music_{episode_music_vibe}.mp3",
+    "background_music_volume": 0.15,
+    "voiceover_volume": 1.0,
+    "music_fade_in_frames": 30,
+    "music_fade_out_frames": 60
+  },
+  "lower_thirds": {
+    "source_citation": {
+      "enabled": true,
+      "position": "bottom-left",
+      "font_size": 18,
+      "color": "#888888",
+      "format": "Source: {source_name}, {year}"
+    },
+    "episode_progress": {
+      "enabled": true,
+      "position": "bottom-right",
+      "format": "{episode} / 30"
+    }
+  },
+  "thumbnail_spec": {
+    "dimensions": "1080x1920",
+    "background": "dark dramatic — relevant document or face",
+    "title_overlay": "bold white text, gold accent",
+    "episode_number": "top corner, gold badge",
+    "hook_text": "one sentence from the voiceover — most shocking line",
+    "font": "Playfair Display Bold"
+  }
+}

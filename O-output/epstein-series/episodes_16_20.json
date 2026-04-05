@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 16,
+    "title": "Prince Andrew: 67 Times in the File",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Prince Andrew's name appears 67 times in the Giuffre versus Maxwell documents unsealed in January 2024. Not 67 passing mentions. 67 mentions in the context of sworn testimony. According to Giuffre's affidavit: in 2001, when she was 17, she was transported to London. Was paid fifteen thousand dollars. Had sexual contact with Prince Andrew. Three times. In three separate locations. In 2022, Giuffre filed a civil lawsuit against the Prince. Andrew — son of Queen Elizabeth — stepped back from all royal duties in January 2022. He paid a settlement estimated at between three and twelve million pounds. The exact figure was never disclosed. No admission of liability. No denial under oath. In February 2026, an email was unsealed confirming that the photograph of Andrew and Giuffre from 2001 is authentic. Andrew's current position: 'I do not intend to cooperate with any further investigation.' Next episode: the lawyer who was there.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Andrew and Giuffre photograph — widely published, public record",
+      "Large number '67' — with subtitle: 'mentions in sworn testimony'",
+      "Timeline: 2001 London → 2022 steps back → settlement → 2026 photo confirmed",
+      "CNN headline, February 2026: 'Email confirms Giuffre photo of Andrew is real'"
+    ],
+    "music_vibe": "Regal but crumbling — dramatic cello",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 17,
+    "title": "Alan Dershowitz: 'I Want Everything Out'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Alan Dershowitz. Harvard Law professor. Epstein's personal attorney in the 2008 deal. His name appears in the January 2024 documents. What does it say? According to Giuffre's sworn deposition unsealed in January 2024: she described at least six sexual encounters with Dershowitz while she was being trafficked — as a minor. On a plane. At Epstein's New York home. At Epstein's Florida home. Two Epstein household employees testified under oath: Dershowitz visited the property often. Requested massages. Arrived without his family when young girls were present. Dershowitz has denied everything categorically. In 2022 — a settlement with no admission and no money changed hands. Giuffre issued a statement saying she 'may have made a mistake' in identifying him. In 2024, Dershowitz told media: 'I want every document out. I have evidence that will show who framed me.' The case is settled. The questions remain. Next episode: the flight logs decoded.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Alan Dershowitz public photo",
+      "2016 deposition excerpt — Giuffre description highlighted",
+      "Household employee testimony quotes on screen",
+      "NewsNation 2024 headline: 'I want everything out — Dershowitz'"
+    ],
+    "music_vibe": "Courtroom tension, legal procedural energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 18,
+    "title": "The Flight Logs: Names That Were Never Explained",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The flight logs of N908JE were entered into evidence. They are public record. They show dozens of passengers. But pay attention to one detail most people miss: the passenger names are not always complete. Sometimes: initials only. Sometimes: 'Jane' or 'female.' Sometimes: first name only. When the FBI built its 2019 case, agents tried to cross-reference flight logs with victim testimony. According to DOJ documents published in 2025: eight documented Trump flights between 1993 and 1996 — including four on which Ghislaine Maxwell was also a passenger. Twenty-six Clinton flight legs between 2002 and 2003. Ehud Barak — documented. Kevin Spacey — documented, including a flight to Africa with Clinton and Chris Tucker. Dozens of additional names that the DOJ has still not fully released. Two hundred thousand pages remain redacted. Being on a flight manifest is not evidence of a crime. But being on a manifest and never being asked about it — that is a different question. Next episode: Bill Clinton.",
+    "word_count": 165,
+    "visual_prompts": [
+      "Flight log page — original document with passenger names",
+      "Table: Name / Number of Flights / Years",
+      "Animated route map: all flight destinations",
+      "Text on screen: '200,000 pages still redacted — DOJ 2025'"
+    ],
+    "music_vibe": "Quiet discovery, old document aesthetic",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "flight_map"
+  },
+  {
+    "episode": 19,
+    "title": "Bill Clinton: 26 Flights and One Question",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Bill Clinton. Former President of the United States. Twenty-six flight legs on the Lolita Express between February 2002 and November 2003. Six international trips. Africa. Asia. Europe. Clinton's team stated: all trips served Clinton Foundation purposes. Secret Service was present. No evidence of any crime. That is accurate — there is no evidence linking Clinton to Epstein's crimes. But in 2025, the DOJ published an email found in Epstein's personal archive. An email Epstein wrote to an associate. In it, he describes his 'affection' for Clinton. Describes requests Clinton made. Adds — and this is a direct quote from the document — 'he will help us if we get into trouble.' That is what the email says. Clinton has not responded to that specific document. One question remains without an answer in the public record: why did a former president with access to government aircraft choose to fly on Epstein's plane 26 times? Next episode: Zorro Ranch.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Clinton and Epstein public photograph — widely circulated",
+      "Flight log: 26 legs highlighted",
+      "Email interface: 'he will help us if we get into trouble' — from DOJ 2025 release",
+      "Question on screen: 'Why not the government plane?'"
+    ],
+    "music_vibe": "Political weight, investigative journalism tempo",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 20,
+    "title": "Zorro Ranch: The Compound in New Mexico",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Seven thousand five hundred acres in New Mexico. Name: Zorro Ranch. Epstein purchased it in the 1990s. In 2026 — the New Mexico Department of Justice conducted the first-ever criminal search of the property. The first. Ever. According to an NBC News review of court testimony, lawsuits, and public records: at least ten women and girls reported abuse at the ranch. Half were under 18 when Epstein harmed them. Chauntae Davis told CBS News: 'I was raped at Zorro Ranch at least twice.' Annie Farmer testified at the Maxwell trial: she was abused by both Maxwell and Epstein at the ranch. Virginia Giuffre: 'I was trafficked to the ranch and ordered to have sex with Epstein and other men.' In 2020, the FBI received a tip suggesting bodies may be buried on the property. They sat on it for six years. In 2026 — New Mexico prosecutors forced a search. What they found has not yet been publicly disclosed. Next episode: July 6, 2019.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Aerial photo: Zorro Ranch — public image",
+      "Map: New Mexico, ranch location",
+      "Three victim quotes on screen — identified by first name only",
+      "WSWS headline: 'FBI sat on buried bodies tip for six years'"
+    ],
+    "music_vibe": "Desert silence, heavy and spiritual",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "satellite_reveal"
+  }
+]

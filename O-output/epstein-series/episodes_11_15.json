@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 11,
+    "title": "The Deal: The Crime Committed in the Name of the Law",
+    "duration_target": "60 seconds",
+    "voiceover_script": "September 24, 2007. Alexander Acosta, US Attorney for the Southern District of Florida, signs a document. The agreement: Jeffrey Epstein pleads guilty to two state-level charges only. In exchange — the federal government commits to not prosecuting him. Not him. Not his associates. Not — and these three words matter — 'any potential co-conspirators.' A non-prosecution agreement shielding individuals who were never investigated, never charged, never named. For free. In secret. In 2019, when this agreement was brought before a federal court, the judge ruled: 'This agreement violated the rights of victims under federal law.' In 2019, Acosta testified before Congress. Asked: why did you make this deal? He answered: 'I only ever had one meeting on the subject. It was above my pay grade.' Above his pay grade. So who gave the order? Next episode.",
+    "word_count": 153,
+    "visual_prompts": [
+      "NPA document — September 24, 2007 — signatures enlarged",
+      "Bold text on screen: 'any potential co-conspirators'",
+      "Acosta testifying before Congress, 2019",
+      "Quote on black: 'It was above my pay grade.'"
+    ],
+    "music_vibe": "Cold and bureaucratic, low strings, institutional dread",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 12,
+    "title": "'He Belonged to Intelligence'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "2019. The Trump transition team is vetting Acosta for Labor Secretary. In a pre-appointment meeting, Acosta is asked about Epstein. According to journalist Vicky Ward, who reported this live on MSNBC Hardball on July 9, 2019: Acosta told transition officials — quote — 'I was told to leave it alone. That Jeffrey Epstein belonged to the intelligence community.' Vicky Ward. July 9, 2019. MSNBC. That is not a Reddit theory. That is a journalist's on-the-record account from a source in the room. Did Epstein work for an intelligence agency? That question was asked in court. Asked in Congress. Among the 3.5 million pages the DOJ published in 2025 — there is no document confirming it. There is no document denying it. Some documents in this area remain classified. As of 2026, a congressional committee continues to demand their release. Next episode: four names that received immunity.",
+    "word_count": 158,
+    "visual_prompts": [
+      "MSNBC Hardball logo + date: July 9, 2019",
+      "Vicky Ward quote in full — white text on black",
+      "Question on screen: 'Was Epstein an intelligence asset?'",
+      "DOJ seal + text: 'Some documents remain classified'"
+    ],
+    "music_vibe": "Espionage, cold ambient, slow revelation",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "classified_reveal"
+  },
+  {
+    "episode": 13,
+    "title": "Four Names, Free Immunity",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The 2007 non-prosecution agreement named four individuals who received explicit immunity. According to federal court documents: Sarah Kellen — Epstein's personal assistant, who scheduled his appointments with girls. Adriana Ross — a household employee whose exact role was never publicly explained. Lesley Groff — senior personal assistant. Nadia Marcinkova — whom Epstein himself once called a 'biological genius' and who, according to witness testimony, was recruited at age 15. All four: never investigated. Never charged. Free today. In 2019, a partially de-classified document revealed additional names listed as potential co-conspirators: Les Wexner. Jean-Luc Brunel. Ghislaine Maxwell. And others still redacted. The agreement may have protected them as well. Of this group, only Maxwell was ever prosecuted — in a separate case, in 2021. Everyone else: no charges. Next episode: what the jail actually looked like.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Four names listed on screen — one by one reveal",
+      "NPA document — immunity clause highlighted",
+      "Table: Name / Role / Legal Status 2025",
+      "Partially redacted 2019 document — names visible and blacked out"
+    ],
+    "music_vibe": "Angry, rhythmic, accumulating injustice",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "list_reveal"
+  },
+  {
+    "episode": 14,
+    "title": "13 Months in a Private Wing: The Jail That Wasn't a Jail",
+    "duration_target": "60 seconds",
+    "voiceover_script": "June 2008. Epstein enters custody. But not prison. A private wing of the Palm Beach County Jail — a wing that had been unused before his arrival. A wing he personally financed to renovate. According to CNN and PBS reporting: six days a week, twelve hours a day — he was released on work detail. To where? To the offices of the Florida Science Foundation — a research grant organization he created specifically for this purpose. Who paid for the deputies assigned to escort him? Epstein himself. One hundred and twenty-eight thousand, one hundred and thirty-six dollars — paid to the Palm Beach County Sheriff's Office. Sex offenders are not eligible for Florida's work release program. Epstein qualified because he was not yet a registered sex offender when the deal was signed. In 2019, the county sheriff opened an internal investigation. Finding: 'serious irregularities.' Nobody was charged. Next episode: what happened after he walked out.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Exterior: Palm Beach County Jail — public photo",
+      "Daily schedule graphic: 6AM departs / 6PM returns",
+      "Check graphic: $128,136 — paid by Epstein to Sheriff's Office",
+      "CNN 2019 headline: 'Palm Beach Sheriff investigates Epstein work release'"
+    ],
+    "music_vibe": "Dark irony, almost absurdist — black comedy tempo",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 15,
+    "title": "2009–2019: A Decade of Freedom",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 2009. Epstein is released. He returns to his New York mansion. Returns to the Virgin Islands. Continues flying. Continues hosting. The Lolita Express flight logs continue after 2009. Testimony from the Maxwell trial described ongoing activity well into the 2010s. In 2011 — according to Virginia Giuffre's sworn testimony — she was trafficked to Prince Andrew in London. After Epstein was already a registered sex offender. In 2015 — Giuffre files her lawsuit. In 2017 — sealed settlement. In 2018 — journalist Julie Brown at the Miami Herald publishes Perversion of Justice. The internet catches fire. One year later. July 6, 2019. JFK Airport. Epstein's plane lands. FBI agents are on the tarmac. He is arrested. The charges: two federal counts. Sex trafficking of minors. Conspiracy to traffic minors. This time — no deal is coming. Next episode: the last 37 days.",
+    "word_count": 157,
+    "visual_prompts": [
+      "Visual timeline: 2009–2019, key moments highlighted",
+      "Miami Herald front page, November 2018",
+      "Airport tarmac — July 6, 2019 aesthetic",
+      "NYT headline: 'Epstein Arrested on Sex Trafficking Charges' — July 8, 2019"
+    ],
+    "music_vibe": "Fast, urgent, clock ticking",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  }
+]

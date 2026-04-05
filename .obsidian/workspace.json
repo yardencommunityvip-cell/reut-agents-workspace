@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "1f1bdea3c042e95a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c1b654acf676668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6c251bfa984b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-agents/tom-agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tom-agent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80f540a9fc735a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c6ded918d8a3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b959169edf4d1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "aa0d8c6794ef177d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "d2cd47531e7f13c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "425381f781fd1b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bbfb1aec1957515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff95acb62f935bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ברוך הבא.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים עבור ברוך הבא"
+            }
+          },
+          {
+            "id": "b1af54e850971dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ברוך הבא.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים מ-ברוך הבא"
+            }
+          },
+          {
+            "id": "10510e0aef0b7fb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "828cee005089b047",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "8f569e5fe47c4552",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ברוך הבא.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתאר של ברוך הבא"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "9a6c251bfa984b5b",
+  "lastOpenFiles": [
+    "A-agents/copywriter-agent.md",
+    "A-agents/chief-of-staff-agent.md",
+    "A-agents/analyst-agent.md",
+    "A-agents/adam-agent.md",
+    "O-output/boss-lady-course-raw.md",
+    "O-output/index.html",
+    "O-output/boss-lady-landing-page.html.tmp.13080.1775004680662",
+    "O-output/boss-lady-landing-page.html.tmp.13080.1775004622587",
+    "O-output/boss-lady-landing-page.html.tmp.13080.1775004617456",
+    "O-output/boss-lady-landing-page.html.tmp.13080.1775004610325",
+    "O-output/boss-lady-landing-page.html.tmp.13080.1775004599475",
+    "O-output/boss-lady-landing-page.html.tmp.17968.1774954388919",
+    "O-output/boss-lady-landing-page.html.tmp.17968.1774954382274",
+    "O-output/boss-lady-landing-page.html.tmp.17968.1774953442170",
+    "O-output/boss-lady-landing-page.html.tmp.5020.1774950267274",
+    "O-output/boss-lady-strategy-pack.md",
+    "O-output/boss-lady-module0-intro.md",
+    "O-output/yarden-lectures-raw.md",
+    "O-output/boss-lady-course-outline.md",
+    "O-output/boss-lady-youtube-content.md",
+    "A-agents/Agent/זיוה.md",
+    "A-agents/Agent/דנה.md",
+    "A-agents/Agent/ירון/ירון-agent-files.md",
+    "A-agents/Agent/ירון/אסטרטג.md",
+    "C-core/Core/Core Identity.md",
+    "C-core/icp-profile.md",
+    "C-core/project-brief.md",
+    "C-core/voice-dna.md",
+    "A-agents/strategist-agent.md",
+    "A-agents/researcher-agent.md",
+    "A-agents/README.md",
+    "A-agents/gatekeeper-agent.md",
+    "A-agents/devils-advocate-agent.md",
+    "C-core/_examples/README.md",
+    "להגדיר את המוח.md",
+    "Pasted image 20260326111727.png"
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 26,
+    "title": "Ghislaine Maxwell: One Against the System",
+    "duration_target": "60 seconds",
+    "voiceover_script": "November 29, 2021. Federal court, Brooklyn. The trial of Ghislaine Maxwell begins. Six weeks. Four primary witnesses. Every one of them described the same method: Maxwell identified young girls. Built their trust. Invited them for a massage. Normalized Epstein's sexual contact. According to the prosecution: 'She was the person most frequently present in the room when Epstein abused his victims.' December 29, 2021 — verdict: guilty. Five federal counts. Sex trafficking of minors. Conspiracy to traffic minors. June 28, 2022 — sentencing: 20 years in federal prison. Maxwell's statement: 'I am sorry for the pain experienced by the victims.' No denial. No admission. But the question a trial observer posed at the end of day four of testimony: where are the men these girls were trafficked to? Why is Maxwell in the dock and no one else? Next episode: January 2024 — the papers.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Brooklyn federal courthouse exterior",
+      "Headline: 'Maxwell Guilty' — December 29, 2021",
+      "Judge quote: 'The jury did not believe you'",
+      "Question: 'Where are the men?' — The Guardian headline, 2021"
+    ],
+    "music_vibe": "End of an act, heavy, slow piano descent",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "verdict_reveal"
+  },
+  {
+    "episode": 27,
+    "title": "January 2024: 950 Pages That Broke the Internet",
+    "duration_target": "60 seconds",
+    "voiceover_script": "January 3, 2024. Judge Loretta Preska, Southern District of New York. 950 pages. Unsealed and released to the public. This is the first wave of what becomes eight waves through January 2024. Total: 4,553 pages from the Giuffre versus Maxwell case file. Contents: sworn depositions. Attorney submissions. A list of names Epstein directed Giuffre toward. Names Giuffre described in sworn testimony. The internet's reaction: global trending within hours. According to Google Trends analysis: 'Epstein documents 2024' — all-time search peak. What triggered it? Names. One hundred and fifty names. Some of them very familiar. Some unknown. Most did not respond to press inquiries. Being named in a court document is not evidence of a crime. But the volume — and the silence — generated a question that cut through every newsroom on earth: if these documents existed since 2015 — why did it take nine years to release them? Next episode: the Transparency Act.",
+    "word_count": 160,
+    "visual_prompts": [
+      "SDNY court document header — January 3, 2024 timestamp",
+      "Google Trends graph: January 2024 — all-time spike",
+      "Number: '150 names' — on screen",
+      "News ticker: CNN / BBC / NYT / Guardian all simultaneously"
+    ],
+    "music_vibe": "Breaking news energy — adrenaline, fast cut",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "headline_flash"
+  },
+  {
+    "episode": 28,
+    "title": "The Transparency Act: 3.5 Million Pages",
+    "duration_target": "60 seconds",
+    "voiceover_script": "November 19, 2025. President Trump signs the Epstein Files Transparency Act into law. The Act requires: all unclassified records released within 30 days. The DOJ identifies: six million pages. Releases: 3.5 million. What is included: 180,000 images. Two thousand videos. Tens of thousands of emails. And what is missing? Two and a half million pages still unreleased. Two hundred thousand pages redacted without publicly stated justification. Representative Laura Friedman: 'I found hundreds of pages marked unredacted that are still blacked out.' The DOJ response: 'We have met our legal obligations.' The Washington Post, February 2026 headline: 'The release left the biggest questions unanswered.' Meanwhile — the Deputy Attorney General stated on February 2, 2026: there will be no further prosecutions related to Epstein. No. Further. Prosecutions. Next episode: what is still being hidden.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Trump signing ceremony — November 2025",
+      "Progress bar: 3.5M released vs 2.5M unreleased",
+      "Redacted document photo — heavy black bars",
+      "WaPo headline: 'Unanswered questions' — February 2026"
+    ],
+    "music_vibe": "Bureaucratic wall, frustration, deep bass",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 29,
+    "title": "What They Are Still Hiding",
+    "duration_target": "60 seconds",
+    "voiceover_script": "February 2026. The DOJ announces: over one million additional documents have been identified and not yet released. NPR reports: the same PowerPoint presentation appears six times in the database — with different information redacted in each version. Same document. Six versions. Different blackouts. Congressional investigators: 'There may be terabytes of data from Epstein's seized devices that have never been analyzed.' The DOJ: 'No further prosecutions.' On February 24, 2026 — NPR reports: the DOJ removed and withheld Epstein documents containing accusations against President Trump. The DOJ's statement: 'Those accusations are unfounded and false.' The House Oversight minority: 'This is a political cover-up.' The House Oversight Committee: 'We continue to investigate.' We are in April 2026. The investigation is not closed. The documents are not fully public. And the people who were protected by a secret agreement in 2007 — have still never been questioned. Next episode: everything we still don't know.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Counter: 1M+ documents still unreleased",
+      "Graphic: same PowerPoint, 6 different redaction versions",
+      "NPR headline: 'DOJ removed Epstein files related to Trump accusations' — Feb 2026",
+      "Question: 'What's in the other 2.5 million pages?'"
+    ],
+    "music_vibe": "Combative, fast, press conference energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "classified_reveal"
+  },
+  {
+    "episode": 30,
+    "title": "What We Still Don't Know: An Ending That Isn't One",
+    "duration_target": "60 seconds",
+    "voiceover_script": "April 2026. The series ends. The case does not. Here is what we know: Jeffrey Epstein built a systematic operation for the sexual exploitation of minors spanning at least a decade. Ghislaine Maxwell is serving 20 years. Two guards who falsified evidence received community service. The 2008 deal violated federal victims' rights law. Here is what we still do not know: the identities of all individuals in the 150 names who were never questioned. What is in the 2.5 million unreleased pages. Whether Epstein worked for an intelligence agency — and why Acosta said he was told to leave it alone. Whether anyone ordered the removal of his suicide watch — and why. What is on the hard drives and memory cards found in the safe at his New York mansion. The victims asked for one thing: names. They are still waiting. Three point five million pages. One answer still missing: who knew — and who protected him.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Split screen: 'What We Know' vs 'What We Don't Know'",
+      "Victim names — those who consented to public identification",
+      "Epstein property map — all known locations",
+      "Final frame: 'Who protected him?' — white text, slow fade to black"
+    ],
+    "music_vibe": "Sad, majestic, documentary closing — full orchestral swell then silence",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "final_fade"
+  }
+]

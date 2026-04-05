@@ -1,0 +1,51 @@
+{
+  "project": "Epstein Files — 30-Part Micro-Drama Series",
+  "language": "English",
+  "voice_settings": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_name": "Adam",
+    "model_id": "eleven_multilingual_v2",
+    "settings": {
+      "stability": 0.45,
+      "similarity_boost": 0.80,
+      "style": 0.35,
+      "use_speaker_boost": true,
+      "speaking_rate": 0.92
+    },
+    "notes": "Lower stability (0.45) adds natural dramatic variation. Speaking rate 0.92 keeps pace urgent without rushing. Style 0.35 adds gravitas without over-performing."
+  },
+  "audio_output": {
+    "format": "mp3_44100_128",
+    "sample_rate": 44100,
+    "bit_rate": 128
+  },
+  "episode_generation_instructions": {
+    "field_to_use": "voiceover_script",
+    "target_duration_seconds": 55,
+    "pause_between_sentences_ms": 180,
+    "emphasis_words": [
+      "classified",
+      "sealed",
+      "never",
+      "minor",
+      "immunity",
+      "suicide watch",
+      "above my pay grade",
+      "intelligence community",
+      "200 thousand pages",
+      "2.5 million",
+      "no further prosecutions"
+    ],
+    "intro_silence_ms": 500,
+    "outro_silence_ms": 800
+  },
+  "batch_generation_order": [
+    "episodes_01_05.json",
+    "episodes_06_10.json",
+    "episodes_11_15.json",
+    "episodes_16_20.json",
+    "episodes_21_25.json",
+    "episodes_26_30.json"
+  ],
+  "file_naming_convention": "ep_{episode_number_padded}_voiceover.mp3"
+}

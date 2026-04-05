@@ -1,0 +1,23 @@
+{
+  "name": "epstein-series",
+  "version": "1.0.0",
+  "description": "Epstein Files 30-part micro-drama series",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render",
+    "render:all": "node scripts/render-all.mjs",
+    "render:ep": "node scripts/render-episode.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.237",
+    "@remotion/media-utils": "4.0.237",
+    "remotion": "4.0.237"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "remotion": {
+    "entryPoint": "src/index.ts"
+  }
+}

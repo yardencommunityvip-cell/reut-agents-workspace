@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 6,
+    "title": "36 Girls: The List Nobody Wanted to See",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Palm Beach Police Station. 2005. One detective starts with one parent's complaint. A week later — two complaints. A month later — he has a list. Names. Ages. Amounts paid. By the end of the initial investigation: 36 girls. All from the Palm Beach area. All between 14 and 17. All describing the same thing: a wealthy man requested a massage. Paid two hundred dollars. Asked for more. Police Chief Michael Reiter wrote it directly in the report: 'This is not a single deviant individual. This is an operation.' He sent the case to the state attorney. The state attorney shelved it. Reiter did not stop. He took it to the FBI. And in May 2006 the FBI opened a federal investigation. Code name: Operation Leap Year. Twenty-seven documented victims. A 205-page prosecution memo. Sixty potential federal charges. What happened to all of that? Next episode.",
+    "word_count": 154,
+    "visual_prompts": [
+      "Exterior: Palm Beach Police Station",
+      "Table: anonymized names, ages, dates, amounts — from public report",
+      "Reiter letter — animated zoom on 'coordinated operation'",
+      "FBI logo + title card: 'Operation Leap Year — opened May 2006'"
+    ],
+    "music_vibe": "Rising tension, sharp strings, sense of battle",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 7,
+    "title": "Virginia Giuffre: The Girl Who Refused to Stay Silent",
+    "duration_target": "60 seconds",
+    "voiceover_script": "1999. Virginia Roberts is 15 years old. Working as a locker room attendant at Mar-a-Lago in Florida. Ghislaine Maxwell approaches her. Offers her a job. 'Masseuse for a wealthy man.' According to her sworn affidavit, submitted as evidence in the Giuffre versus Maxwell case and unsealed in 2024: she was transferred to Epstein's residence. Groomed. Trafficked. Flown on the Lolita Express dozens of times. In 2001 — according to her sworn testimony — she was delivered to Prince Andrew in London. She was paid fifteen thousand dollars. She never received it. In 2015 she files suit against Maxwell. In 2017 — a sealed settlement. In 2024 — the court lifts confidentiality. Page one of the 950 unsealed pages reads: 'Giuffre alleges she was trafficked to powerful men.' Maxwell's name appears 500 times in the documents. Prince Andrew's name: 67 times. Next episode: what Maxwell said under oath.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Virginia Giuffre public photo",
+      "Case header: Giuffre v. Maxwell, SDNY 2015",
+      "Timeline animation: 1999 Mar-a-Lago → 2001 London → 2015 suit → 2024 unsealed",
+      "On screen: '67 mentions of Prince Andrew' — large text"
+    ],
+    "music_vibe": "Sad, heavy, solo piano",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 8,
+    "title": "Ghislaine Under Oath: 'I Don't Recall'",
+    "duration_target": "60 seconds",
+    "voiceover_script": "April 22, 2016. New York City. Ghislaine Maxwell sits across from attorneys in a sworn deposition. The session is recorded. The recording was submitted to court. Portions were unsealed in 2021. More in 2024. What did she answer? 'I don't recall' — 188 times. Question: 'Did you know that underage girls were brought into Epstein's home?' — 'I don't recall.' Question: 'Did you witness Epstein performing sexual acts on minors?' — 'I don't recall.' Question: 'Did you recruit girls?' — 'I don't recall.' Giuffre's attorneys submitted a count to the court: 188 instances of 'I don't recall' in a single deposition. The judge in Brooklyn, December 2021: 'Mrs. Maxwell — the jury did not believe you.' Maxwell sat in silence. She was convicted on five federal counts. Sentenced to 20 years. Next episode: the 60 charges that vanished.",
+    "word_count": 155,
+    "visual_prompts": [
+      "Deposition room: table, microphone, two chairs",
+      "Counter on screen: climbing to 188 — 'I don't recall'",
+      "Judge quote 2021 — large white text on black",
+      "Brooklyn courthouse exterior, December 29, 2021"
+    ],
+    "music_vibe": "Cold, minimalist, dramatic silences",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "counter_reveal"
+  },
+  {
+    "episode": 9,
+    "title": "205 Pages That Led Nowhere",
+    "duration_target": "60 seconds",
+    "voiceover_script": "May 2007. A federal prosecutor in Florida sends a memo to Alexander Acosta, US Attorney for the Southern District of Florida. The memo: 205 pages. What's inside? Twenty-seven documented victims. Sixty potential federal charges. Evidence of human trafficking. Evidence of federal crimes. An FBI agent testified in a sworn affidavit: girls identified from photographs seized at Epstein's properties. Age. School. First name. All of it documented. 205 pages. This memo was introduced as evidence in federal court in 2019. The DOJ published it in 2025 under the Transparency Act. Anyone can read it. So what did Acosta do with those 205 pages? He offered Epstein a deal. Plead guilty to two state charges. In return — the federal government agrees not to prosecute. Not him. Not his associates. Not — quote — 'any potential co-conspirators.' No names. No limits. Everyone walks. Next episode: what they told the victims.",
+    "word_count": 160,
+    "visual_prompts": [
+      "Memo cover: 'Prosecution Memorandum, May 2007'",
+      "Chart: 60 potential counts vs. 2 guilty plea counts",
+      "Memo quote: '27 identified victims, ages 14–23' — highlighted",
+      "Photo of Acosta — later appointed Trump Labor Secretary, 2017"
+    ],
+    "music_vibe": "Quiet fury, deep bass, slow burn of injustice",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  },
+  {
+    "episode": 10,
+    "title": "The Victims Were Never Told: A Crime Within a Crime",
+    "duration_target": "60 seconds",
+    "voiceover_script": "September 2007. Acosta signs the non-prosecution agreement with Epstein's lawyers. The agreement is sealed. It terminates all federal proceedings. It protects Epstein and all of his, quote, 'potential co-conspirators.' Now — the part that made federal judges decades later call it unprecedented. The victims were not notified. The US federal Crime Victims' Rights Act requires prosecutors to inform victims before signing any such agreement. Acosta did not do that. In 2019, a federal judge ruled: the agreement was executed in violation of the victims' rights. Virginia Giuffre said in testimony: 'I found out Epstein had been released when I saw it on the news.' In 2018 — journalist Julie Brown of the Miami Herald published 'Perversion of Justice.' The internet exploded. One year later. July 6, 2019. JFK Airport. Epstein lands. The FBI is waiting. This time — there will be no deal. Next episode: what happened inside that jail.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Non-Prosecution Agreement document, September 2007 — signatures highlighted",
+      "Crime Victims' Rights Act — relevant statute on screen",
+      "Miami Herald front page, November 2018: 'Perversion of Justice — Julie K. Brown'",
+      "Acosta resignation press conference, July 2019"
+    ],
+    "music_vibe": "Angry violin crescendo, building toward explosion",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "headline_flash"
+  }
+]

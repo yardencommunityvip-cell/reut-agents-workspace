@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 21,
+    "title": "July 6, 2019: The Last Landing",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 6, 2019. Approximately 4 PM. A private jet touches down at Teterboro Airport, New Jersey. Jeffrey Epstein steps off the plane. FBI agents are waiting on the ground. This is happening years after the Miami Herald blew the story wide open. Months after Acosta resigned. A decade after the 2008 deal set him free. Epstein is arrested. The new indictment: two federal counts. Sex trafficking of minors. Conspiracy to traffic minors. The Southern District of New York. Dozens of victims referenced. The DOJ states: 'Additional evidence was collected from his office and New York residence.' What was found? CDs. Photographs. Recordings. And a safe. Inside the safe — according to an FBI affidavit — quote: 'photographs of nude females who appear to be minors.' On July 23, 2019 — Epstein is found in his cell with injuries to his neck. First incident. He is placed on suicide watch. July 30, 2019 — suicide watch restrictions are removed. Next episode: 37 days.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Teterboro Airport exterior — public image",
+      "NYT headline: 'Jeffrey Epstein Arrested on Sex Trafficking Charges' — July 8, 2019",
+      "FBI affidavit excerpt: 'photographs of nude females who appear to be minors'",
+      "Timeline: July 6 arrest / July 23 first incident / July 30 watch removed"
+    ],
+    "music_vibe": "Urgent, fast, countdown energy",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "timeline_reveal"
+  },
+  {
+    "episode": 22,
+    "title": "Removal of Watch: 11 Critical Days",
+    "duration_target": "60 seconds",
+    "voiceover_script": "July 30, 2019. Metropolitan Correctional Center, New York. A prison doctor signs a form: Epstein's suicide watch — terminated. He is moved to a single cell. Under standard MCC protocol, any inmate previously on suicide watch must be assigned a cellmate. Epstein was not assigned one. He was placed under a 30-minute observation check. In practice — according to the DOJ Inspector General report released in 2023 — these checks were not performed. The overnight shift of August 9th to 10th: two guards. Both fell asleep. Between 10:30 PM and 6:30 AM — no checks. Eight hours. Half of the security cameras in MCC were not operational. The camera positioned directly outside Epstein's cell: described in the report as 'not functioning.' The Inspector General's conclusion: 'broad institutional failures.' Next episode: 6:30 in the morning.",
+    "word_count": 154,
+    "visual_prompts": [
+      "MCC New York exterior",
+      "Timeline: July 30 watch removed / Aug 9–10 overnight shift",
+      "Clock graphic: 8 hours without a check",
+      "DOJ OIG report quote: 'broad institutional failures'"
+    ],
+    "music_vibe": "Freezing tension, dangerous silence, solo piano",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "clock_reveal"
+  },
+  {
+    "episode": 23,
+    "title": "August 10, 2019: 6:30 AM",
+    "duration_target": "60 seconds",
+    "voiceover_script": "August 10, 2019. 5:42 AM. Guard Noel types into his workstation computer: 'latest on Epstein in jail.' He is searching the internet. Ten minutes later — searches again. 6:30 AM. Breakfast distribution begins. A guard opens the door to Epstein's cell. Finds him unresponsive. Blue. Jeffrey Epstein is pronounced dead at 7:36 AM at a nearby hospital. Official cause of death: asphyxiation by hanging. Official manner: suicide. But on October 30, 2019 — Dr. Michael Baden, former Chief Medical Examiner of New York City, hired by Epstein's brother, releases his findings. The hyoid bone: fractured. Two fractures in the thyroid cartilage — both sides of the larynx. Baden's statement: 'In 50 years of investigating deaths I have not seen this pattern of fractures in a suicide by hanging.' His conclusion: 'Consistent with homicidal strangulation.' The official medical examiner: 'I stand by my finding of suicide.' Next episode: two doctors, one bone.",
+    "word_count": 163,
+    "visual_prompts": [
+      "Clock: 5:42 / 5:52 / 6:30 — animated timeline",
+      "MCC corridor — cell block aesthetic",
+      "Medical graphic: hyoid bone location and fracture points",
+      "Side by side: 'Suicide' — official / 'Homicidal Strangulation' — Baden"
+    ],
+    "music_vibe": "Complete stop. Dramatic. A single low note held.",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "medical_reveal"
+  },
+  {
+    "episode": 24,
+    "title": "Two Theories, One Bone",
+    "duration_target": "60 seconds",
+    "voiceover_script": "The medical dispute has never been resolved. On one side: Dr. Barbara Sampson, Chief Medical Examiner of New York City. Conclusion: suicide by hanging. On the other side: Dr. Michael Baden, 50 years of forensic experience. Conclusion: 'Pattern consistent with homicidal strangulation from behind.' The specific injuries: fractures to both sides of the thyroid cartilage simultaneously. A fracture of the left hyoid bone. Baden's position: 'To fracture both sides of the larynx simultaneously in a suicide by hanging — that is nearly impossible.' Sampson's position: 'Such fractures can occur in either manner of death.' What is confirmed by the documented record: no cellmate assigned. The camera failed. The guards slept. Suicide watch lifted 11 days before his death. In 2026, calls for an independent autopsy review continue. The DOJ has stated: no further prosecutions. A congressional committee has stated: we are still investigating. The answer has not arrived. Next episode: the two guards who slept.",
+    "word_count": 162,
+    "visual_prompts": [
+      "Split screen: 'Suicide' vs 'Homicide' — two columns",
+      "Animated medical graphic: three fracture locations",
+      "Baden quote from NYT 2019 — enlarged",
+      "Question on screen: 'The official answer is still disputed'"
+    ],
+    "music_vibe": "Unresolved, melancholic, open-ended",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "split_reveal"
+  },
+  {
+    "episode": 25,
+    "title": "The Two Guards: Falsified Federal Records",
+    "duration_target": "60 seconds",
+    "voiceover_script": "Tova Noel. Michael Thomas. The two overnight guards at MCC on August 9th to 10th, 2019. What did they do? They slept. For approximately three hours. And then — they falsified the check logs. They recorded inmate checks that never happened. According to ABC News reporting: both guards were subsequently charged with falsifying federal records and making false statements. In 2021 — both received a deal: charges dropped in exchange for community service. Neither spent a single day incarcerated. Congressional investigators asked directly: how do two individuals who falsified evidence in the highest-profile federal case in decades receive community service? The DOJ did not provide a satisfactory explanation. In 2026 — the House Oversight Committee published a statement: 'We remain unsatisfied with the response to the oversight failures surrounding Epstein's death.' The case file on his death remains open. Next episode: the Maxwell trial.",
+    "word_count": 158,
+    "visual_prompts": [
+      "Guard booking photos — public record",
+      "Federal indictment document against both guards",
+      "Timeline: Charged → Deal → Community service",
+      "House Oversight Committee statement 2026 — key line highlighted"
+    ],
+    "music_vibe": "Cynical, rhythmic, accelerating frustration",
+    "elevenlabs_voice": "Adam",
+    "remotion_template": "document_reveal"
+  }
+]
