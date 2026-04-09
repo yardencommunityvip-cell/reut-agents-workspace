@@ -1,6 +1,8 @@
-# A-agents: Your AI Team
+# A-agents: Your AI Team — RY MEDIA
 
 This folder contains your AI agent definitions.
+
+**CEO:** רעות | **COO:** אדם | **Company:** RY MEDIA
 
 ---
 
@@ -8,17 +10,38 @@ This folder contains your AI agent definitions.
 
 ```
 A-agents/
-├── adam-agent.md         → Your COO - manages the team, workflows, and memory
-├── copywriter-agent.md   → Writes all your content in your voice
-├── gatekeeper-agent.md   → Reviews quality before publishing
-├── researcher-agent.md   → Finds angles, data, and supporting material
-├── strategist-agent.md   → Analyzes from business/growth perspective
-├── analyst-agent.md      → Turns raw material into structured documents
-├── devils-advocate-agent.md → Challenges assumptions and finds blind spots
-├── chief-of-staff-agent.md  → Synthesizes multiple perspectives into briefs
-├── tom-agent.md          → Your guide to the ABC-TOM system
-└── README.md             → You are here
+├── adam-agent.md              → Your COO - manages the team, workflows, and memory
+├── copywriter-agent.md        → Writes all your content in your voice
+├── gatekeeper-agent.md        → Reviews quality before publishing
+├── researcher-agent.md        → Finds angles, data, and supporting material
+├── strategist-agent.md        → Analyzes from business/growth perspective
+├── analyst-agent.md           → Turns raw material into structured documents
+├── devils-advocate-agent.md   → Challenges assumptions and finds blind spots
+├── chief-of-staff-agent.md    → Synthesizes multiple perspectives into briefs
+├── tom-agent.md               → Your guide to the ABC-TOM system
+├── Agent/
+│   ├── פלישיה.md              → זרוע 1: EMERGENCYPETVET — content agent
+│   ├── אורי-גרוס.md           → זרוע 2: מיקרו דרמה — script writer
+│   ├── דנה.md                 → זרוע 3: YMD daily content curator
+│   ├── זיוה.md                → זרוע 3+5: YMD architect + Masterclass builder
+│   └── ירון/                  → זרוע 3: YMD strategist
+└── README.md                  → You are here
 ```
+
+---
+
+## RY MEDIA — שש הזרועות
+
+| זרוע | שם | סטטוס | סוכן ראשי |
+|------|-----|-------|-----------|
+| 1 | EMERGENCYPETVET | פעיל | פלישיה |
+| 2 | מיקרו דרמה | בפיתוח | אורי גרוס |
+| 3 | YMD Community | פעיל | דנה + זיוה |
+| 4 | ניהול יוצרי תוכן צעירים | קונספט | לבנות |
+| 5 | YMD Masterclass | בנייה פעילה | זיוה |
+| 6 | AI for Kids | קונספט | לבנות |
+
+ראה תמונה מלאה: `C-core/company-hq.md`
 
 ---
 

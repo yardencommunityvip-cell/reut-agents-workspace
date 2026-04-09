@@ -6,6 +6,12 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", "O-output", "-p", "3333", "--no-clipboard"],
       "port": 3333
+    },
+    {
+      "name": "ai-kids-landing",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "O-output/ai-for-kids/landing-page", "-p", "3334", "--no-clipboard"],
+      "port": 3334
     }
   ]
 }
